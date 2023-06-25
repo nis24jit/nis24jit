@@ -13,7 +13,7 @@ I'm a passionate software developer with a keen interest in building amazing app
 
 Here are some of the technologies and tools I work with:
 
-- Programming Languages: Typescript, Javascript, C#, Java, Python, Swift and Kotlin
+- Programming Languages: ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white), Javascript, C#, Java, Python, Swift and Kotlin
 - Frontend Development: React.js, Vue.js, Angular.js, Web components
 - Backend Development: NodeJS, C#,Java
 - Databases: MongoDb, DynamoDb, SQL Server
