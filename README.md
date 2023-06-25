@@ -25,6 +25,6 @@ Feel free to explore my repositories to find more projects and contributions.
 
 ## Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/nishanth-suresh-624005b1/)
+- LinkedIn: (https://www.linkedin.com/in/nishanth-suresh-624005b1/)
 
 Let's connect and collaborate!
