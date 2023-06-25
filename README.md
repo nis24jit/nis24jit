@@ -20,6 +20,7 @@ Here are some of the technologies and tools I work with:
 - DevOps: Docker, Kubernetes, Terraform
 - Cloud: AWS Serverless, Microsoft Azure
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nis24jit)](https://github.com/nis24jit/github-readme-stats)
 
 Feel free to explore my repositories to find more projects and contributions.
 
