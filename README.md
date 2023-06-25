@@ -25,7 +25,7 @@ Feel free to explore my repositories to find more projects and contributions.
 
 ## Get in Touch
 
-- LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishanth-suresh-624005b1/)
+- LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-Nishanth-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishanth-suresh-624005b1/)
 
 
 Let's connect and collaborate!
