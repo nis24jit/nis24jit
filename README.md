@@ -4,7 +4,7 @@
 
 I'm a passionate software developer with a keen interest in building amazing applications. I love to explore new technologies and learn new things. Currently, I'm focused on honing my skills in building full stack applications and cloud architecture.
 
- - 💼 Working as a Senior FullStack Developer at Vodafone Ziggo
+ - 💼 Working as a Software Development Lead at Essent
  - 🌱 Currently learning GoLang, Powershell
  - 🔭 Looking to collaborate on interesting open-source projects
  - ⚡  Fun fact - I can speak 5 languages fluently  
